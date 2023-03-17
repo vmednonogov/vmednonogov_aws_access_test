@@ -1,0 +1,1 @@
+# vmednonogov_aws_access_test
